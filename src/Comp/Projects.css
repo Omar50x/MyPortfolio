@@ -1,0 +1,60 @@
+.btn-fish{
+    width: 400px;
+    font-size: 2em;
+    background-color: #86C9C6;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-green{
+    width: 400px;
+    font-size: 2em;
+    background-color: #C6D554;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-dan{
+    width: 400px;
+    font-size: 2em;
+    background-color: #6CE5B1;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-demo{
+    width: 400px;
+    font-size: 2em;
+    background-color: #F44336;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-portfolio{
+    width: 400px;
+    font-size: 2em;
+    background-color: #6C63FF;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-bootcamp{
+    width: 400px;
+    font-size: 2em;
+    background-color: #FFC107;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-trello{
+    width: 400px;
+    font-size: 2em;
+    background-color: #ECE8FF;
+    border-radius: 8px;
+    border: 0;
+}
+.btn-zero{
+    width: 400px;
+    font-size: 2em;
+    background-color: #00C7C0;
+    border-radius: 8px;
+    border: 0;
+}
+.projects{
+    padding: 200px 0;
+    background: linear-gradient(to bottom, #898BC2, #fff, #fff, #fff, #00113B);
+}

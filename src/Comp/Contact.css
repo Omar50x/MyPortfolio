@@ -1,0 +1,60 @@
+.contact{
+    background: linear-gradient(to bottom, #898BC2, #5D6882, #fff, #fff, #00113B);
+    padding: 200px 0;
+}
+.contact-me{
+    position: relative;
+    border-radius: 50%;
+}
+button{
+    padding: 5px 0;
+    background-color: #1A1D88;
+}
+.nom, .adresse, .sujet, .message{
+    color: #1A1D88;
+}
+input{
+    border: #1A1D88 solid 3px;
+}
+.tabl-contact{
+    background-image:url(../../public/img/bg-main.jpg);
+    background-size: cover;
+}
+.box-contact-me{
+    margin-top: 200px;
+}
+.hr-contact{
+    width: 60px;
+}
+.say-hello{
+    color: #1A1D88;
+    position: relative;
+    left: 25px;
+}
+.lets-work{
+    font-size: 4.7em;
+}
+.disscuss{
+    width: 350px;
+}
+.pic-5, .pic-3, .pic-7, .pic-6, .pic-4{
+    position: absolute;
+}
+.pic-6{
+    bottom: 130px;
+    right: 120px;
+}
+.pic-5{
+    right: 520px;
+    top: 300px;
+    z-index: 3;
+}
+.pic-3{
+    top: 520px;
+    right: 300px;
+    z-index: 2;
+}
+.pic-4{
+    top: 260px;
+    right: 435px;
+}

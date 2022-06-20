@@ -1,0 +1,143 @@
+.bg-img-header{
+    background-image:url(../../public/img/bg-main.jpg);
+    background-size: cover;
+
+}
+.bg-img-header2{
+    background: linear-gradient(to bottom, #000, #000, #fff, #000, #fff, #00113B);
+}
+.logo{
+    margin-left: 200px;
+    position: relative;
+    left: 90px;
+}
+.nave{
+    color: #B7986B;
+}
+.ico{
+    color: #B7986B;
+}
+.resaux{
+    margin-left: 420px;
+    transition: 1s;
+}
+.resaux:hover{
+    transform: scale(1.2);
+}
+.res1{
+    transition: 1s;
+}
+.res1:hover{
+    transform: scale(1.2);
+}
+li{
+    margin: 40px;
+}
+.hello{
+    width: 450px;
+    margin-top: 160px;
+}
+.hello h1{
+    font-size: 4.5em;
+}
+.img2{
+    position: relative;
+    top: 88px;
+    left: 150px;
+    border-radius: 50%;
+}
+.img1{
+    position: relative;
+    top: -204px;
+    right: 50px;
+}
+.img3{
+    position: relative;
+    bottom: 783px;
+}
+.img4{
+    position: relative;
+    bottom: 783px;
+    left: 260px;
+}
+.img5{
+    position: relative;
+    bottom: 950px;
+    left: 390px;
+    background-color: #7362FF;
+    border: 0;
+}
+.img9{
+    position: relative;
+    bottom: 510px;
+    left: 355px;
+    z-index: 3;
+}
+.img10{
+    position: relative;
+    bottom: 510px;
+    left: 376px;
+    z-index: 3;
+}
+.img11{
+    position: relative;
+    bottom: 780px;
+    left: 1260px;
+    z-index: 3;
+}
+.img12{
+    position: relative;
+    bottom: 460px;
+    right: 220px;
+    z-index: 3;
+}
+.img6{
+    position: relative;
+    top: 300px;
+    left: 400px;
+}
+.img14{
+    position: relative;
+    bottom: 540px;
+    left: 260px;
+}
+.img13{
+    position: relative;
+    bottom: 310px;
+    left: 300px;
+}
+.cv h2{
+    font-size: 3em;
+    position: relative;
+    bottom: 10px;
+    left: 150px;
+    color: #FFC6EA;
+}
+.cv-img{
+    border-radius: 10px;
+    position: relative;
+    left: 322px;
+    border: #FFC6EA solid 5px;
+}
+.doig{
+    position: relative;
+    bottom: 100px;
+    left: 570px;
+}
+.bg-nav{
+    background: linear-gradient(to right, #FFFFFF, #1A1D88);
+}
+.LOGO{
+    transition: 1s;
+}
+.LOGO:hover{
+    transform: scale(1.2);
+}
+.btn-cv{
+    color: #FFC6EA;
+    margin-left: 520px;
+    text-decoration: none;
+}
+.btn-container{
+    margin-bottom: 50px;
+}

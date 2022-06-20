@@ -1,0 +1,24 @@
+.ever{
+    background: linear-gradient(to top, #00113B, #fff);
+    padding: 200px;
+}
+.icon1, .icon2, .icon3, .icon4, .icon5, .icon6{
+    display: flex;
+    width: 440px;
+    transition-duration: 2s;
+}
+.icon2:hover, .icon4:hover, .icon6:hover{
+    background-color: #2B3A5C;
+    border-radius: 10px;
+}
+.icon1:hover, .icon3:hover, .icon5:hover{
+    background-color: #6D768C;
+    border-radius: 10px;
+}
+.find a{
+    text-decoration: none;
+    color: #031957;
+}
+.find{
+    margin-top: 70px;
+}
